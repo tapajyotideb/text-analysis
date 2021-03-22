@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/vikkante/idmstools">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+ <!-- <a href="https://github.com/vikkante/idmstools"> -->
+      <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">IDMS Scripts</h2>
@@ -53,9 +53,7 @@ Check if python3 is installed in your system by typing in your terminal. The ver
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.ibm.com/vikkante/idmstools.git
-   ```
+ 
 2. Make sure you have all the python libraries installed which are mentioned in the <b>Requirements.txt</b> in the <i>scripts</i> folder after you clone the repo. Use <b><i>pip install "library"</i></b> to install any missing ones.
 
 
@@ -146,7 +144,6 @@ Check if python3 is installed in your system by typing in your terminal. The ver
 <!-- CONTACT -->
 ## Contact
 For any issues, feel free to contact - <br /><br />
-Vikram Kante - vikkante@in.ibm.com <br />
 Tapajyoti Deb - tapdeb26@in.ibm.com
 <hr />
 
