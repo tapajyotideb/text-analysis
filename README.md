@@ -144,6 +144,6 @@ Check if python3 is installed in your system by typing in your terminal. The ver
 <!-- CONTACT -->
 ## Contact
 For any issues, feel free to contact - <br /><br />
-Tapajyoti Deb - tapdeb26@in.ibm.com
+Tapajyoti Deb - tapajyotideb@gmail.com
 <hr />
 
